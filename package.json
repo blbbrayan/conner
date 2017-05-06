@@ -1,0 +1,25 @@
+{
+  "name": "conner",
+  "version": "0.0.1",
+  "description": "My first programming helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brayan Byrdsong <brayanbyrdsong@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^3.0.0",
+    "gmail-send": "^1.2.9",
+    "google-speech": "0.0.5",
+    "gulp": "^3.9.1",
+    "ncp": "^2.0.0",
+    "nodejs-fs-utils": "^1.0.26",
+    "opn": "^5.0.0",
+    "play-sound": "^1.1.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "bin": {
+    "snippet": "./index.js"
+  }
+}

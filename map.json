@@ -1,0 +1,22 @@
+{
+  "clear-all": "./tasks/clear-all",
+  "forget": "./tasks/forget",
+  "hey": "./tasks/hey",
+  "hipchat": "./tasks/hipchat",
+  "hipchat-rooms": "./tasks/hipchat-rooms",
+  "list": "./tasks/list",
+  "look-up": "./tasks/look-up",
+  "music": "./tasks/music",
+  "remember": "./tasks/remember",
+  "run": "./tasks/run",
+  "run-list": "./tasks/run-list",
+  "save-list": "./tasks/save-list",
+  "save-template": "./tasks/save-template",
+  "say": "./tasks/say",
+  "send-mail": "./tasks/send-mail",
+  "template": "./tasks/template",
+  "templates": "./tasks/templates",
+  "test": "./tasks/test",
+  "todo": "./tasks/todo",
+  "video": "./tasks/video"
+}
