@@ -3,3 +3,4 @@ node_modules/
 tasks/send-mail.js
 tasks/hipchat.js
 tasks/hipchat-rooms.js
+desc.json
