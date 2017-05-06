@@ -15,7 +15,7 @@ npm i conner -g
 * Click Path -> 
 * Edit -> 
 * New -> 
-* C:\Users\<Your User>\AppData\Roaming\npm\node_modules\conner
+* C:\Users\\\<Your User>\AppData\Roaming\npm\node_modules\conner
 
 # Settings
 
