@@ -18,5 +18,6 @@
   "templates": "./tasks/templates",
   "test": "./tasks/test",
   "todo": "./tasks/todo",
+  "translate": "./tasks/translate",
   "video": "./tasks/video"
 }
