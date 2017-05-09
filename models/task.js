@@ -34,4 +34,4 @@ module.exports.mkDirs = ()=> {
 
 module.exports.memory = __dirname.replace('models', 'brain') + '/memory.txt';
 
-module.exports.desc = JSON.parse(fs.readFileSync('desc.json', 'utf8'));
+module.exports.desc = JSON.parse(fs.readFileSync(__dirname.replace("\\models", "")+'\\desc.json', 'utf8'));

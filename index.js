@@ -1,6 +1,6 @@
 const
     fs = require('fs'),
-    map = JSON.parse(fs.readFileSync('map.json', 'utf8')),
+    map = JSON.parse(fs.readFileSync(__dirname+'\\map.json', 'utf8')),
     command = process.argv[2],
     args = process.argv.splice(3);
 (()=> {
